@@ -1,0 +1,3 @@
+cd ~/developer/workspace/gko_demo_shop
+bundle install
+rails s  
